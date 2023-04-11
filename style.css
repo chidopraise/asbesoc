@@ -1,0 +1,192 @@
+body{
+	background-color: #E0E0E0;
+	color: green;
+	font-family:"Times New Roman Geogia";
+}
+
+.head{
+	display:block;
+	color: E0E0E0;
+	background-color: #10893E;
+	height: 5em;
+	font-size: 2em;
+}
+
+.foot{
+	display: block;
+	color: E0E0E0;
+	background-color: #10893E;
+	font-size: 30px;
+}
+
+
+
+.index {
+	background-color: #10893E;
+}
+
+.index_img {
+	display: none;
+	border: #fff thick dotted;
+}
+
+.name {
+	display: block;
+	color: yellow;
+	font-size: 50px;
+}
+
+.one,.two,.three,.four,.five {
+	display: none;
+}
+
+.a{
+	list-style:none;
+	padding:50px;
+}
+
+.li{
+	overflow:auto;
+}
+
+#li,.a{
+	list-style:none;
+	margin:10px;
+	padding:10px;
+	color:#E0E0E0;
+	text-align:center;
+	font-size:25px
+	
+}
+
+.nav{
+	background-image:url("../images/img.jpg");
+}
+.cont{
+	float:right;
+}
+
+li,.a:hover {
+	background-color: #10893E;
+}
+
+a:hover{
+	text-decoration:none;
+}
+
+.a:hover {
+	background-color: #3B5999;
+	color:#E0E0E0;
+	text-decoration:none;
+	margin-left:30px;
+}
+
+#li2,.a2{
+	list-style:none;
+	margin:0px;
+	padding:0px;
+	margin-right:35px;
+	margin-top:5px;
+}
+
+.a2{
+	color:E0E0E0;
+	font-size:25px;
+
+}
+
+.li2,#li2{
+	display:inline;
+}
+
+
+
+.service-glyphicon{
+	font-size:100px;
+	color:#3B5999;
+}
+
+.stomach{
+	height:800px;
+	background-image:url("../images/img2.jpg");
+	overflow:hidden;
+}
+
+.stomach0{
+	background: rgba(128,128,128,.6);
+}
+
+.service,.service1,.serv{
+	color:#3B5999;
+	font-size:25px;
+	font-weight:bold;
+}
+
+.searching{
+	margin:0px;
+	padding:0px;
+	width:30px;
+	height:35;
+	font-size:30px
+}
+
+.page_name{
+	text-transform:capitalize;
+	color:#000;
+}
+
+
+.login{
+	display:none;
+}
+
+
+.register{
+	display:none;
+}
+
+.cash{
+	float:right;
+}
+
+
+.discount{
+	font-size:20px;
+	color:#000;
+	background-image:url("../images/desert.jpg");
+}
+
+.discount1,.discount2{
+	background:rgba(192,192,192,.5);
+}
+
+.contact{
+	background-image:url('../images/img1.jpg');
+}
+
+.contact1{
+	background:rgba(192,192,192,.7);
+	color:#fff;
+}
+
+.contact2{
+	color:black;
+	font-size:100px;
+}
+.contact3{
+	text-decoration:;
+	font-size:25px;
+	color:#fff;
+}
+.con{
+	font-size:25px;
+}
+
+.change{
+	text-decoration:none;
+	color:#881798;
+	font-size:20px;
+}
+.change:hover{
+	color:#E0E0E0;
+}
